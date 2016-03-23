@@ -1,4 +1,4 @@
-curl --header 'Authorization: token 94338e36246cc482e153f1268a353fee5019043d' \
+curl --header 'Authorization: token  \
      --header 'Accept: application/vnd.github.v3.raw' \
      --remote-name \
      --location https://github.com/AndreyNazarchuk/MatrixPEWebsite/archive/master.zip
